@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "hello.MessageConfigProperties",
+      "name": "message",
+      "type": "hello.MessageConfigProperties"
+    }
+  ],
+  "properties": []
+}
